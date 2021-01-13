@@ -10,6 +10,15 @@
 .first-section{
     background-color: rgba(255, 182, 193, 0.288);
 }
-.row img{
-    width: 100%;
+.woman-card img{
+    width:250px;
+    height: 250px;
+    margin-left: 80px;
+    padding: 20px;
+}
+.man-card img{
+    width:250px;
+    height: 250px;
+    margin-left: 80px;
+    padding: 20px;
 }
