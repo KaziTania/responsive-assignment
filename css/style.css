@@ -1,3 +1,15 @@
+.title{
+    color: orange;
+    font-weight: 700;
+}
+.price{
+    color: rgba(248, 161, 0, 0.945);
+    font-weight: 700;
+}
+.jacket{
+    color: rgb(0, 0, 68);
+    font-weight: 700;
+}
 .logo{
     margin-right: 230px;
     width: 40%;
@@ -8,8 +20,9 @@
     color: black;
 }
 .first-section{
-    background-color: rgba(255, 182, 193, 0.288);
+    background-color: rgba(255, 192, 203, 0.247);
 }
+
 .woman-card img{
     width:250px;
     height: 250px;
@@ -38,9 +51,12 @@
 .icon{
     margin-right: 2px;
 }
-.btn{
-    border: 2px;
+.target-btn{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: .5em;
+    background-color:rgb(110, 161, 8);
     color: white;
-    background-color: olive;
+    font-weight: 700;
 }
 
