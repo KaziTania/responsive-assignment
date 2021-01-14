@@ -1,4 +1,4 @@
-.title{
+.first-title{
     color: orange;
     font-weight: 700;
 }
@@ -10,11 +10,11 @@
     color: rgb(0, 0, 68);
     font-weight: 700;
 }
-.logo{
+.nav-logo{
     margin-right: 230px;
     width: 40%;
 }
-.headline{
+.nav-headline{
     margin-right: 50px;
     font-weight: 700;
     color: black;
@@ -59,4 +59,25 @@
     color: white;
     font-weight: 700;
 }
-
+.enjoy-header{
+    color: rgb(50, 0, 97);
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 10px;
+}
+.winter-header{
+    color: rgb(182, 10, 10);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 10px;
+}
+.bonous-section{
+    background-color: rgb(189, 176, 160);
+    border-radius: 5px;
+}
